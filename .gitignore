@@ -1,0 +1,26 @@
+<<<<<<< HEAD
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Streamlit logs/cache
+.streamlit/
+.DS_Store
+
+# Jupyter Notebook checkpoints
+=======
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Streamlit logs/cache
+.streamlit/
+.DS_Store
+
+# Jupyter Notebook checkpoints
+>>>>>>> 281c6147fd109755b7a0a32e93f4fb12fb7ea281
+.ipynb_checkpoints/

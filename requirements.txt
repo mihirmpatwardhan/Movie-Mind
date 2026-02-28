@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+streamlit
+pandas
+requests
+=======
+streamlit
+pandas
+requests
+>>>>>>> 281c6147fd109755b7a0a32e93f4fb12fb7ea281
+scikit-learn
